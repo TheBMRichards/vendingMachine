@@ -481,5 +481,5 @@ int main()
 	}
 
 	display(coke_count, doritos_count, snickers_count, chex_mix_count, pepsi_count, sales_per_day);
-	
+
 }
